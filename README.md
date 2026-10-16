@@ -1,2 +1,2 @@
 # PulseMusic-Player
-The music player that was in earlier versions!
+first version of PulseMusic!
